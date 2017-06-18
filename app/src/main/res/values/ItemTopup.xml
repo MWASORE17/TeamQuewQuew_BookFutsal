@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="topups"
+        >
+        <item>100000</item>
+        <item>250000</item>
+        <item>350000</item>
+        <item>500000</item>
+    </integer-array>
+</resources>
